@@ -14,6 +14,6 @@ Each subfolder contains a plugin for a specific package. To use a plugin, add th
 
 ```json
 "include": [
-    "github:captainseeker/devbox-plugins?dir=<plugin-name>"
+    "github:joelvargh/devbox-plugins?dir=<plugin-name>"
 ],
 ```

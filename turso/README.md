@@ -11,7 +11,7 @@ To activate this plugin, add the following reference to the `include` section of
 ```json
 
 "include": [
-    "github:captainseeker/devbox-plugins?dir=turso"
+    "github:joelvargh/devbox-plugins?dir=turso"
 ],
 ```
 
